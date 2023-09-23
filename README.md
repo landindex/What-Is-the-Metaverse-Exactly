@@ -11,7 +11,7 @@ The Evolution of the Internet: From Web 1.0 to the Metaverse:
 
 The internet has come a long way since its inception. From the static Web 1.0 to the interactive Web 2.0, the evolution has been remarkable. But the metaverse takes this evolution to a whole new level. It is an immersive and interconnected digital world where users can interact with each other and virtual environments in real-time. Unlike the internet we know today, the metaverse blurs the line between the physical and digital realms, creating a seamless and captivating experience.
 
-a href="https://www.youtube.com/watch?v=rZb5uLJ2R5g"><img width="949" alt="What-Is-the-Metaverse-Exactly" src="https://github.com/landindex/What-Is-the-Metaverse-Exactly/assets/3318070/d5ed79fa-a09c-4081-b1aa-221f0f371414"></a>
+<a href="https://www.youtube.com/watch?v=rZb5uLJ2R5g"><img width="949" alt="What-Is-the-Metaverse-Exactly" src="https://github.com/landindex/What-Is-the-Metaverse-Exactly/assets/3318070/d5ed79fa-a09c-4081-b1aa-221f0f371414"></a>
 
 **Entering the Metaverse: Virtual Reality and Augmented Reality**
 
